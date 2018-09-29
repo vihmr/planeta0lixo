@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{2F87286E-929D-B1A2-F27D-429B397C7F82}</ProjectGuid>
+    <ProjectGuid>{9BC1A129-CDD8-39E6-C482-515C6B3DCE78}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,20 +61,25 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\playerpush.cs" />
+    <Compile Include="Assets\Scripts\jackControl.cs" />
+    <Compile Include="Assets\Scripts\lixeiraorganico.cs" />
+    <Compile Include="Assets\Scripts\lixeiraplastico.cs" />
+    <Compile Include="Assets\Scripts\lixeiravidro.cs" />
     <Compile Include="Assets\Scripts\MenuJogo.cs" />
     <Compile Include="Assets\Scripts\MenuPlaneta.cs" />
     <Compile Include="Assets\Scripts\move.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/vitor/Documents/space/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/vitor/Documents/space/planeta0lixo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/vitor/Documents/space/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/vitor/Documents/space/planeta0lixo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/vitor/Documents/space/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/vitor/Documents/space/planeta0lixo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/vitor/Documents/space/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/vitor/Documents/space/planeta0lixo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

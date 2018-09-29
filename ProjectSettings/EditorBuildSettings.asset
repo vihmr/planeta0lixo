@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuPlaneta.unity
     guid: fc592fe6bb3dcfe4c9b5ee93d40e924b
+  - enabled: 1
+    path: Assets/Scenes/LevelOne.unity
+    guid: eaa8a8f8459b5a34481efa584501b983
   m_configObjects: {}

@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - maca
+  - organica
+  - vidro
+  - plastico
+  - papel
+  - metal
   layers:
   - Default
   - TransparentFX
@@ -13,7 +19,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - bhbhbhjbhjb
   - 
   - 
   - 
@@ -40,4 +46,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Chao
+    uniqueID: 3403857379
+    locked: 0
+  - name: Lixo
+    uniqueID: 1279421429
+    locked: 0
+  - name: Jack
+    uniqueID: 523482417
     locked: 0
